@@ -23,7 +23,7 @@ export function Summary(){
             </SummaryCard>
 
 
-            <SummaryCard variants="green">
+            <SummaryCard c>
                 <header>
                     <span>Total</span>
                     <CurrencyDollar size={32} color='#fff'/>
